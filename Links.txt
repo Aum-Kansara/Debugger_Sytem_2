@@ -1,0 +1,2 @@
+paymentGateway=https://www.youtube.com/watch?v=cdtPcTIuazI
+mysql-python=https://www.geeksforgeeks.org/python-mysql/
